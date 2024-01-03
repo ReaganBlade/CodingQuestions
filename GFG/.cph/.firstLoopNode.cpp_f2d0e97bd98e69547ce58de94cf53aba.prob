@@ -1,0 +1,1 @@
+{"name":"Local: firstLoopNode","url":"d:\\Personal\\Coding Questions\\GFG\\firstLoopNode.cpp","tests":[{"id":1704208815337,"input":"1\n5\n1 3 2 4 5\n2","output":"3"},{"id":1704209095190,"input":"1\n5\n1 3 2 4 5\n3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\GFG\\firstLoopNode.cpp","group":"local","local":true}
