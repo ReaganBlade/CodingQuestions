@@ -1,0 +1,1 @@
+{"name":"Local: removeAnchor","url":"d:\\Personal\\Coding Questions\\CodeWars\\removeAnchor.cpp","tests":[{"id":1704263515945,"input":"www.hello.com#what?","output":"www.hello.com\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\CodeWars\\removeAnchor.cpp","group":"local","local":true}
