@@ -1,0 +1,1 @@
+{"name":"Local: getMiddle","url":"d:\\Personal\\Coding Questions\\GFG\\getMiddle.cpp","tests":[{"id":1704293428389,"input":"1\n7\n1 2 3 4 5 6 7","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\GFG\\getMiddle.cpp","group":"local","local":true}

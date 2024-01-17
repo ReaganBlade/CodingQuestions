@@ -1,0 +1,1 @@
+{"name":"Local: subArraySum","url":"d:\\Personal\\Coding Questions\\GFG\\subArraySum.cpp","tests":[{"id":1704465710957,"input":"1\n5 12\n1 2 3 7 5","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\GFG\\subArraySum.cpp","group":"local","local":true}

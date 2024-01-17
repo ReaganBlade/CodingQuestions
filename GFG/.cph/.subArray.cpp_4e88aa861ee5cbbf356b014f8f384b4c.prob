@@ -1,0 +1,1 @@
+{"name":"Local: subArray","url":"d:\\Personal\\Coding Questions\\GFG\\subArray.cpp","tests":[{"id":1704471024694,"input":"1\n5 12\n1 2 3 7 5","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\GFG\\subArray.cpp","group":"local","local":true}

@@ -23,12 +23,39 @@ class Solution
 {
     public:
     //Function to check whether a Binary Tree is BST or not.
-    bool isBST(Node* root) 
-    {
-        // Your code here
-        
-        
+    // bool isBST(Node* root) {
+    //     // Your code here
+    //     static struct Node* prev = NULL;
+    //     if (root != NULL) {
+    //         if (!isBST(root->left)) {
+    //             return false;
+    //         }
+    //         if (prev != NULL && root->data <= prev->data) {
+    //             return false;
+    //         }
+    //         prev = root;
+    //         return isBST(root->right);
+    //     } else {
+    //         return true;
+    //     }
+    // }
+
+    bool isBSTHelper(Node * root, int minValue, int maxValue){
+        if(root == nullptr){
+            return true;
+        }
+
+        if(root -> data <= minValue || root -> data >= maxValue){
+            return false;
+        }
+
+        return isBSTHelper(root -> left, minValue, root -> data) && isBSTHelper(root -> right, root -> data, maxValue);
     }
+
+    bool isBST(Node * root){
+        return isBSTHelper(root, INT_MIN, INT_MAX);
+    }
+
 };
 
 

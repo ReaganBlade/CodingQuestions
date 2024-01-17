@@ -1,0 +1,1 @@
+{"name":"Local: rotateArr","url":"d:\\Personal\\Coding Questions\\GFG\\rotateArr.cpp","tests":[{"id":1704357749827,"input":"1\n5 2\n1 2 3 4 5","output":"3 4 5 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\Coding Questions\\GFG\\rotateArr.cpp","group":"local","local":true}
